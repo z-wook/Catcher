@@ -35,15 +35,21 @@ Catcher는 사용자들이 부담 없이 자신을 자유롭게 표현하고, �
 <br><br>
 
 ## 📺 UI 미리보기
+<details>
+    <summary>자세히</summary>
+
 https://github.com/z-wook/Catcher/assets/101041221/4ab03ec6-92da-474a-8fc8-9e0bbe55abd9
 
 https://github.com/z-wook/Catcher/assets/101041221/df873cc3-6638-4eca-8faf-c3e5913e5b14
 
+https://github.com/z-wook/Catcher/assets/101041221/3965a1a2-d381-4c57-be8f-bd7508e7c847
+
 https://github.com/z-wook/Catcher/assets/101041221/2e8441e8-d145-4f0b-9d24-930189947719
 
+</details>
 <br>
 
-## 🏹 아키텍처
+## 🏹 다이어그램
 <img width="591" src="https://github.com/z-wook/Catcher/assets/101041221/5da8f49b-ba31-4508-8333-83377ca0b420">
 
 <br><br>
